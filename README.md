@@ -14,5 +14,4 @@ https://docs.google.com/document/d/1BsdtF4ajGhNdKeNOJQBxgATawk0vxhPoZ6WSt-DHiuQ
 https://docs.google.com/document/d/1OrmTYyV84kaveFR1EbgNd94RPgOX2xJfNSeXJIXwOCc/edit
 
 ### Team Member Assignment and Contract:
-https://docs.google.com/document/d/1fB_Q6WNHVYmmjvEnjlMcipEdf_FMYtg6naZBfNwi6s
-
+https://docs.google.com/document/d/1fB_Q6WNHVYmmjvEnjlMcipEdf_FMYtg6naZBfNwi6sQ/edit
