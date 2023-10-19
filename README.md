@@ -1,9 +1,9 @@
 # mouse-phenome-db
 A private repo for JAX Mouse Phenome DB project.
 
-Project Requirment & Description: 
+Project Requirment Doc:
 
-https://www.dropbox.com/scl/fi/e6gx09bvjrlt3dcf44l3v/jax.pdf?rlkey=55nhfogo7m2hwjqww4hmgddgh&dl=0
+https://docs.google.com/document/d/19bh-Ckpv2oqrwQCX8c4VXT92D2CF8bGPqp0E5uroF1I/edit
 
 Project Proposal:
 
