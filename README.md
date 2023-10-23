@@ -9,6 +9,10 @@ Project Proposal:
 
 https://docs.google.com/document/d/1BsdtF4ajGhNdKeNOJQBxgATawk0vxhPoZ6WSt-DHiuQ
 
+Team Organization and Process Model:
+
+https://docs.google.com/document/d/1BObhm4vwC5rDXwFQyYrCZtiN6ia2DhN_ONpqO_yjCZM/edit
+
 ## Important Links:
 ### Team Meeting Notes:
 https://docs.google.com/document/d/1OrmTYyV84kaveFR1EbgNd94RPgOX2xJfNSeXJIXwOCc/edit
