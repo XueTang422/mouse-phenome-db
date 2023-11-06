@@ -13,6 +13,10 @@ Team Organization and Process Model:
 
 https://docs.google.com/document/d/1BObhm4vwC5rDXwFQyYrCZtiN6ia2DhN_ONpqO_yjCZM/edit
 
+Software Design Description (SDD):
+
+https://docs.google.com/document/d/1dJlCLSKFwthhJ9D4V7zrd65SuC_AGS2hdn2N3b8AiBY/edit
+
 ## Important Links:
 ### Team Meeting Notes:
 https://docs.google.com/document/d/1OrmTYyV84kaveFR1EbgNd94RPgOX2xJfNSeXJIXwOCc/edit
