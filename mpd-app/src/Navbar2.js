@@ -1,6 +1,8 @@
 import React from 'react';
 import './Navbar2.css';
 import lightThemeLogo from './images/logo2.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCaretDown } from '@fortawesome/free-solid-svg-icons';
 
 const Navbar2 = () => {
   return (
@@ -13,8 +15,8 @@ const Navbar2 = () => {
       <ul className="navbar-menu">
         <li className="navbar-item"><a href="#">Get Started</a></li>
         {/* TO-DO: Modify href placeholder navigating to a specific url */}
-        <li className="navbar-item"><a href="#">Explore</a></li>
-        <li className="navbar-item"><a href="#">Analyze</a></li>
+        <li className="navbar-item"><a href="#">Explore <FontAwesomeIcon icon={faCaretDown} /></a></li>
+        <li className="navbar-item"><a href="#">Analyze <FontAwesomeIcon icon={faCaretDown} /></a></li>
         <li className="navbar-item"><a href="#">Contribute</a></li>
         <li className="navbar-item"><a href="#">Download</a></li>
         <li className="navbar-item"><a href="#">About</a></li>
