@@ -13,6 +13,24 @@ Start serving by running: `npm start`
 
 The app will be served at: http://localhost:3000/
 
+### Development
+   
+1. Make sure the local main branch is up-to-date:
+   a. Checkout main branch: `git checkout main`
+   b. Pull changes to local: `git pull`
+   
+2. Develop a new feature:
+   a. Checkout new branch: `git checkout -b {name/branchName}`, for example: `git checkout -b xue/create-app`
+   b. Push the new branch to git: `git push`
+   c. Make changes and test in local by running `npm start`
+   d. After changes are completed, use `git add .`, `git commit -m 'message'`, and `git push` to push changes
+
+3. Create a Pull Request:
+   a. Compare your branch to the main branch to create a new PR
+   b. Follow the PR template and fill in the information
+   c. [Optional] Specify reviewers for second opinions
+   d. Merge branch
+
 
 ## Project Documentation
 
