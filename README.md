@@ -9,6 +9,8 @@ Go into the cloned project: `cd mouse-phenome-db`
 
 Go into the app folder: `cd mpd-app`
 
+Install the required packages: `npm install`
+
 Start serving by running: `npm start`
 
 The app will be served at: http://localhost:3000/
