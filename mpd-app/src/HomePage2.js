@@ -5,9 +5,6 @@ const HomePage2 = () =>{
     return(
         <div>
             <Navbar2/>
-            <p>
-                This is Prototype 2.
-            </p>
         </div>
     )
 }
