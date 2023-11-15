@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar2.css';
+import './NavbarLightTheme.css';
 import lightThemeLogo from './images/logo2.png';
 import magnifyingGlass from './images/magnifying-glass.svg'
 
