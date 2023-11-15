@@ -71,15 +71,18 @@ const Navbar2 = () => {
             </div>
         </li>
         <li className="navbar-item"><a href="#">Contribute</a></li>
-        <li className="navbar-item"><a href="#">Download</a></li>
-        <li className="navbar-item"><a href="#">About</a></li>
+        <li className="navbar-item"><a href="https://phenome.jax.org/downloads">Download</a></li>
+        <li className="navbar-item"><a href="https://phenome.jax.org/about">About</a></li>
       </ul>
       <div className="navbar-search-signin">
         <div className="search-box">
           <img className="search-glass" src={magnifyingGlass} alt="magnifying glass"/>
           <input className="search-text" type="text" placeholder="Search" />
         </div>
-        <button className="sign-in-button">Sign In</button>
+        <a href="https://thejacksonlaboratory.auth0.com/u/login?state=hKFo2SB2VjlYbVZqMFhUOXgzX3dDUFN0TDlwTHNRRVpRN2hSLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG5XV2Ffci1SRHZYakxaeWJvWkt0cEV1ckdLTERuaEx2o2NpZNkgUUJsZXA1R0habjkyOERhM2pDQXlYWWd5Wk5kNTRpM3E">
+          <button className="sign-in-button">Sign In</button>
+        </a>
+
       </div>
     </nav>
   );
