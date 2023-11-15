@@ -77,6 +77,10 @@ https://docs.google.com/document/d/1OrmTYyV84kaveFR1EbgNd94RPgOX2xJfNSeXJIXwOCc/
 
 https://docs.google.com/document/d/1fB_Q6WNHVYmmjvEnjlMcipEdf_FMYtg6naZBfNwi6sQ/edit
 
+4. Mock Design from Jackson Labs:
+
+https://drive.google.com/file/d/1uINLix0gQHR7Dimzbp9WP7Wb8rgRBjQb/view
+
 
 
 
