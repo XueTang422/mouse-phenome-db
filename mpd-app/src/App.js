@@ -3,7 +3,7 @@ import HomePage1 from './HomePage1';
 import HomePage2 from './HomePage2';
 
 
-const PROTOTYPE_VERSION = 2;
+const PROTOTYPE_VERSION = 1;
 
 function App() {
   return (

@@ -1,0 +1,75 @@
+.navbar {
+    display: flex;
+    flex: 1 1 1;
+    align-items: center;
+    padding: 0 20px;
+    background-color:#124379 ;
+}
+
+
+.navbar-fabars-logo {
+    display: flex;
+    align-items: center;
+}
+.fabars {
+    color: #FFFFFF;
+    height: 50px;
+
+}
+.logo {
+    margin-top: 10px;
+    height: 66px;
+}
+
+
+.navbar-search{
+    align-items: center;
+    margin: auto;
+}
+
+.box {
+    padding: 2px;
+    width: 300px;
+    margin-right: 50px;
+    border: 1.5px solid #ddd;
+    border-radius: 25px;
+    transition: border-color 0.3s;
+
+}
+
+.glass {
+    height: 18px;
+    margin-left: 16px;;
+    margin-bottom: -4px;
+    color: white;
+}
+
+.text {
+    color: #333;
+    padding: 6px 12px;
+    font-size: 16px;
+    font-weight: 500;
+    outline: none;
+    border: 0;
+    margin-right: 10px;
+}
+
+.input:focus {
+    border-color: #017cff;
+}
+
+.signin-button {
+    padding: 8px 15px;
+    background-color: rgb(34, 192, 139);
+    border: none;
+    border-radius:6px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.signin-button:hover {
+    background-color: #073d77;
+}
