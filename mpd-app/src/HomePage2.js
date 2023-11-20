@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar2 from "./Navbar2";
+import NavbarLightTheme from "./NavbarLightTheme";
 
 const HomePage2 = () =>{
     return(
         <div>
-            <Navbar2/>
+            <NavbarLightTheme/>
         </div>
     )
 }
