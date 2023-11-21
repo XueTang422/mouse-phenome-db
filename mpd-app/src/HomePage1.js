@@ -1,12 +1,13 @@
 import React from "react";
+import Sidebar from "./Components/Sidebar.js";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
 const HomePage1 = () =>{
     return(
-        <div>
-            <p>
-                This is Prototype 1.
-            </p>
-        </div>
+        <Router>
+            <Sidebar />
+        </Router>
+
     )
 }
 
