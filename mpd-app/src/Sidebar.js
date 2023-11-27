@@ -14,8 +14,10 @@ export default function Sidebar({item, index, status}){
         return(
         <>
         <li key={index} className={item.type} onClick={showSubmenu}>
+          <div className='title-arrow'>
             <a>{item.title}</a>
-            {submenu?item.arrowOpen:item.arrowClosed}
+            <div>{submenu?item.arrowOpen:item.arrowClosed}</div>
+          </div>
 
         </li>
         <div className={submenu&&status? 'submenu active':'submenu'}>

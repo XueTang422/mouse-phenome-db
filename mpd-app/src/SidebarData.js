@@ -1,6 +1,7 @@
 import React from "react";
 import * as RiIcons from "react-icons/ri";
 
+ 
 export const SidebarData =[
     {
         title: "Get Started",
@@ -10,8 +11,8 @@ export const SidebarData =[
     {
         title: "Explore",
         path: "/explore",
-        arrowClosed: <RiIcons.RiArrowDownSLine/>,
-        arrowOpen: <RiIcons.RiArrowUpSLine/>,
+        arrowClosed: <RiIcons.RiArrowDownSLine style={{ stroke: "black", strokeWidth: "2"}}/>,
+        arrowOpen: <RiIcons.RiArrowUpSLine style={{ stroke: "black", strokeWidth: "2"}}/>,
         type: "sidebar-text",
         subMenu:[
             {
@@ -179,8 +180,8 @@ export const SidebarData =[
     {
         title: "Analysis Tools",
         path: "/tools",
-        arrowClosed: <RiIcons.RiArrowDownSLine/>,
-        arrowOpen: <RiIcons.RiArrowUpSLine/>,
+        arrowClosed: <RiIcons.RiArrowDownSLine style={{ stroke: "black", strokeWidth: "2"}} />,
+        arrowOpen: <RiIcons.RiArrowUpSLine style={{ stroke: "black", strokeWidth: "2"}}/>,
         type: "sidebar-text",
         subMenu:[
             {

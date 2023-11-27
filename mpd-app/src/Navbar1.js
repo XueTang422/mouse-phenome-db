@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import './Navbar1.css';
-import lightThemeLogo from './images/logo1.png';
-import magnifyingGlass from './images/magnifying-glass.svg' // import search glass
+import darkThemeLogo from './images/logo1.png';
+import magnifyingGlass from './images/magnifying-glass.svg' 
 import { FaBars } from "react-icons/fa6";
 import Sidebar from "./Sidebar"
 import { SidebarData } from "./SidebarData";
@@ -22,7 +22,7 @@ const Navbar1 = () => {
 
         <div className="navbar-logo">
           <a href="https://phenome.jax.org/">
-            <img className="logo" src={lightThemeLogo} alt="NavbarLogo1"/>
+            <img className="logo" src={darkThemeLogo} alt="NavbarLogo1"/>
           </a>
         </div>
       </div>
