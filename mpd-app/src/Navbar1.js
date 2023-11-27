@@ -28,8 +28,8 @@ const Navbar1 = () => {
       </div>
 
 
-      <div className="navbar-search">
-        <div className="search-box">
+      <div className="navbar-dark-search">
+        <div className="dark-search-box">
           <img className="search-glass" src={magnifyingGlass} alt="magnifying glass"/>
           <input className="search-text" type="text" placeholder="Search" />
         </div>

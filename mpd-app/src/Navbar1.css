@@ -26,13 +26,13 @@
 }
 
 
-.navbar-search{
+.navbar-dark-search{
     align-items: center;
     margin: auto;
 }
 
-.box {
-    background-color: #ddd;
+.dark-search-box {
+    background-color: white;
     padding: 2px;
     width: 300px;
     margin-right: 50px;
