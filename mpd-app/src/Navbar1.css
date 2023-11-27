@@ -28,13 +28,13 @@
 }
 
 .box {
+    background-color: #ddd;
     padding: 2px;
     width: 300px;
     margin-right: 50px;
     border: 1.5px solid #ddd;
     border-radius: 25px;
     transition: border-color 0.3s;
-
 }
 
 .glass {
