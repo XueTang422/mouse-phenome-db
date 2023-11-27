@@ -1,4 +1,4 @@
-.navbar {
+.navbar-dark {
     display: flex;
     flex: 1 1 1;
     align-items: center;
@@ -6,19 +6,23 @@
     background-color:#124379 ;
 }
 
-
 .navbar-fabars-logo {
     display: flex;
     align-items: center;
 }
+
 .fabars {
     color: #FFFFFF;
     height: 50px;
 
 }
+.fabars:hover {
+    cursor: pointer;
+}
 .logo {
     margin-top: 10px;
-    height: 66px;
+    margin-right: 100px;
+    height: 60px;
 }
 
 
@@ -73,3 +77,146 @@
 .signin-button:hover {
     background-color: #073d77;
 }
+
+.sidebar {
+
+    flex-wrap: wrap;
+    position: fixed;
+    z-index: -1;
+    background: #ffffff;
+    border-right: 1px solid #15171c;
+    width: 260px;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    left: -100%;
+    overflow: auto;
+    
+}
+  
+.sidebar.active {
+    left: 0;
+}
+
+.nav-items {
+    width: 100%;
+}
+
+.sidebar-text {
+
+    display: flex;
+    color: #000000;
+    width: 100%;
+    list-style: none;
+    height: 30px;
+    padding: 10px 0px 10px 0px;
+    
+  }
+
+.sidebar-text a {
+    text-decoration: none;
+    color: #000000;
+    padding: 0px 10px 0px 0px;
+    font-size: 18px;
+    text-align: left;
+  }
+  
+.sidebar-text a:hover {
+    color: #017cff;
+    cursor: pointer;
+}
+
+.submenu-text {
+    display: flex;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    list-style: none;
+    height: 20px;
+    padding: 0px 0px 10px 20px;
+  }
+
+.submenu-text a {
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    padding: 0px 20px 0px 0px;
+    font-size: 15px;
+    text-align: left;
+  }
+  
+.submenu-text a:hover {
+    color: #017cff;
+    cursor: pointer;
+}
+
+.submenu {
+    height:0;
+    overflow: hidden;
+
+}
+.submenu.active {
+    height:auto;
+}
+
+.sidebar2 {
+
+    position: fixed;
+    z-index: 10;
+    margin-left: 261px;
+    background: #ffffff;
+    border-right: 1px solid #15171c;
+    width: 260px;
+    height: 95vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    top: 70px;
+    left:-100%;
+    overflow: auto;
+}
+  
+.sidebar2.active {
+    left:0;
+}
+
+.sidebar2-title {
+    display: flex;
+    color: #000000;
+    justify-content: flex-start;
+    align-items: start;
+    width:80%;
+    list-style: none;
+    height: auto;
+    padding: 30px 0px 0px 0px;
+    font-size: 18px;
+    border-bottom: 1.25px solid #15171c;
+
+}
+.sidebar2-text {
+    display: flex;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    list-style: none;
+    height: auto;
+    padding: 10px 0px 0px 0px;
+  }
+
+.sidebar2-text a {
+    text-decoration: none;
+    color: #000000;
+    display: flex;
+    padding: 0px 20px 0px 0px;
+    font-size: 14px;
+    text-align: left;
+  }
+  
+.sidebar2-text a:hover {
+    color: #017cff;
+    cursor: pointer;
+}
+  
