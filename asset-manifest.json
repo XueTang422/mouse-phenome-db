@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mouse-phenome-db/static/css/main.af41aa6a.css",
+    "main.js": "/mouse-phenome-db/static/js/main.65b26ba4.js",
+    "static/js/787.b185dc46.chunk.js": "/mouse-phenome-db/static/js/787.b185dc46.chunk.js",
+    "static/media/mice-picture.png": "/mouse-phenome-db/static/media/mice-picture.ba660b4005779a305f46.png",
+    "static/media/logo2.png": "/mouse-phenome-db/static/media/logo2.1ad94f8a9ca1dd36875a.png",
+    "static/media/magnifying-glass.svg": "/mouse-phenome-db/static/media/magnifying-glass.97f6dd315d191aac624d78ffe5a23780.svg",
+    "index.html": "/mouse-phenome-db/index.html",
+    "main.af41aa6a.css.map": "/mouse-phenome-db/static/css/main.af41aa6a.css.map",
+    "main.65b26ba4.js.map": "/mouse-phenome-db/static/js/main.65b26ba4.js.map",
+    "787.b185dc46.chunk.js.map": "/mouse-phenome-db/static/js/787.b185dc46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af41aa6a.css",
+    "static/js/main.65b26ba4.js"
+  ]
+}
