@@ -1,5 +1,6 @@
 .navbar-dark {
     display: flex;
+    position: sticky;
     flex: 1 1 1;
     width:100vw;
     align-items: center;
