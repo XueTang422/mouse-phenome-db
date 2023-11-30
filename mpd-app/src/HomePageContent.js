@@ -4,8 +4,8 @@ import micePicture from "./images/mice-picture.png";
 
 const HomePageContent = () =>{
     return(
-        <div className="homepage">
-            <hr background-color="gray" height="1px"/>
+        <div>
+            
             <section className="mice-picture">
                 <img className="center" src={micePicture} alt="mice and quote" width="870px" height="220px"/>
             </section>
