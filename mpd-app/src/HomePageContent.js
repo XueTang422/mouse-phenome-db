@@ -2,7 +2,7 @@ import GoogleDocumentViewer from "./GoogleDocumentViewer";
 import './HomePageContent.css';
 import micePicture from "./images/mice-picture.png";
 
-const HomePage2 = () =>{
+const HomePageContent = () =>{
     return(
         <div>
             <hr background-color="gray" height="1px"/>
@@ -32,4 +32,4 @@ const HomePage2 = () =>{
     )
 }
 
-export default HomePage2;
+export default HomePageContent;
