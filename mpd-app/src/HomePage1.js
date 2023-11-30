@@ -1,11 +1,14 @@
 import React from "react";
+import Navbar1 from "./Navbar1";
+import HomePageContent from "./HomePageContent";
 
 const HomePage1 = () =>{
     return(
         <div>
-            <p>
-                This is Prototype 1.
-            </p>
+
+            <Navbar1/>
+            <HomePageContent/>
+            
         </div>
     )
 }
