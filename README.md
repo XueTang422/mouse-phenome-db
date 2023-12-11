@@ -66,6 +66,10 @@ https://docs.google.com/document/d/1dJlCLSKFwthhJ9D4V7zrd65SuC_AGS2hdn2N3b8AiBY/
 
 https://docs.google.com/document/d/1rDNmekYLewLzv3nxeZuarVJcn44aIzbGXFrHLtSfgH0/edit
 
+6. Team Evaluation of Project:
+
+https://docs.google.com/document/d/1iz5dkkdFuAV2MQi4495PPBRnYzl8gDa5ltoIntoL54k/edit
+
 
 ## Other Important Links
 
