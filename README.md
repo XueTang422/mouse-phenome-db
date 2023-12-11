@@ -62,6 +62,10 @@ https://docs.google.com/document/d/1BObhm4vwC5rDXwFQyYrCZtiN6ia2DhN_ONpqO_yjCZM/
 
 https://docs.google.com/document/d/1dJlCLSKFwthhJ9D4V7zrd65SuC_AGS2hdn2N3b8AiBY/edit
 
+5. Individual Contribution Assessment:
+
+https://docs.google.com/document/d/1rDNmekYLewLzv3nxeZuarVJcn44aIzbGXFrHLtSfgH0/edit
+
 
 ## Other Important Links
 
